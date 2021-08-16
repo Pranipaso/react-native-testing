@@ -1,0 +1,21 @@
+{
+  "name": "react-native-testing",
+  "version": "0.1.0",
+  "summary": "testing",
+  "homepage": "https://test.com#readme",
+  "license": "MIT",
+  "authors": "plusinfosys <as@as.com> (https://test.com)",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://test.com.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "ios/**/*.{h,m,mm}",
+  "dependencies": {
+    "React-Core": [
+
+    ]
+  }
+}
